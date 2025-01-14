@@ -1,0 +1,1 @@
+max room size: 16 px by 16 px
